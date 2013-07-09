@@ -26,10 +26,7 @@
 // and only allows a certain number of bytes to be writter.
 package lw
 
-import (
-	"errors"
-	"io"
-)
+import "io"
 
 type NoSpace struct{}
 
