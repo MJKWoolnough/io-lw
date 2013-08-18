@@ -3,7 +3,7 @@
     import "github.com/MJKWoolnough/io-lw"
 
 Limited Writer acts similarly to io.LimitedReader in so far as it wraps a writer
-and only allows a certain number of bytes to be writter.
+and only allows a certain number of bytes to be written.
 
 ## Usage
 
